@@ -1,3 +1,3 @@
-# angular8-blackjack
+# Blackjack in Angular8
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular8-blackjack)
+[Click to Play](https://angular8-blackjack.stackblitz.io)
